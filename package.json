@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app-demo",
+  "name": "nuxt-app-demo2",
   "private": true,
   "scripts": {
     "build": "nuxt build",
